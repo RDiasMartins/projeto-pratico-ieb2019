@@ -1,0 +1,19 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(to top, #9796f0, #fbc7d4);
+}
+.login-form {
+    background-color: white;
+    color: #FFFF;
+    border-radius:10px;
+    margin-top: 25vh;
+    padding: 20px 30px;
+    -webkit-box-shadow: 0 5px 2px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0 5px 2px -6px rgba(0,0,0,0.75);
+    box-shadow: 0 10px 10px -6px rgba(0,0,0,0.75);
+}
+
+.login-form h2 {
+    margin: 0 0 30px;
+    font-size: 1em;
+}

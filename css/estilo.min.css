@@ -1,0 +1,78 @@
+body {
+    min-height: 100vh;
+	margin-bottom:10%;
+    background: linear-gradient(to top, #9796f0, #fbc7d4);
+}
+
+h3, h4, h2, p{
+    font-family:'Courier New';
+}
+label{
+    font-family:'Courier New';
+}
+
+input{
+    border-radius:5px;
+    border: 1px solid lightslategrey;
+}
+.navbar {
+    background-color:white;
+    border-radius:5px;
+    -webkit-box-shadow: 0 5px 2px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0 5px 2px -6px rgba(0,0,0,0.75);
+    box-shadow: 0 8px 10px -6px rgba(0,0,0,0.75);
+}
+
+footer{
+    background-color:white;
+    position:fixed;
+    border-radius:5px;
+    width: 100%;
+    left:0;
+    bottom:0;
+    padding:1em;
+    color:black;
+    -webkit-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px -4px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px -2px 5px 0px rgba(0,0,0,0.75);
+}
+table{
+    border-radius:5px;
+}
+.form-generico{
+    background-color: white;
+    color: black;
+    border-radius:10px;
+    margin-top: 5vh;
+    padding: 20px 30px;
+    -webkit-box-shadow: 0 5px 2px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0 5px 2px -6px rgba(0,0,0,0.75);
+    box-shadow: 0 10px 10px -6px rgba(0,0,0,0.75);
+}
+.form-jogar{
+    text-align:center;
+    background-color: white;
+    color: black;
+    border-radius:10px;
+    margin-top: 5vh;
+    padding: 20px 30px;
+    -webkit-box-shadow: 0 5px 2px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0 5px 2px -6px rgba(0,0,0,0.75);
+    box-shadow: 0 10px 10px -6px rgba(0,0,0,0.75);
+}
+.mensagem {
+    background-color: white;
+    color: #FFFF;
+    border-radius:10px;
+    margin-top: 25vh;
+    padding: 20px 30px;
+    -webkit-box-shadow: 0 5px 2px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0 5px 2px -6px rgba(0,0,0,0.75);
+    box-shadow: 0 10px 10px -6px rgba(0,0,0,0.75);
+}
+
+.mensagem h2 {
+    margin: 0 0 30px;
+    font-size: 1em;
+    font-family: 'Courier New';
+}

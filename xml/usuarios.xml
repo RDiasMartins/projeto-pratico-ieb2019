@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+    <usuario>
+        <codigo>1</codigo>
+        <nome>Maria Eduarda</nome>
+        <email>duda@email.com</email>
+        <senha>123</senha>
+        <pontuacao>0</pontuacao>
+        <jogos_ganhos>0</jogos_ganhos>
+        <jogos_perdidos>0</jogos_perdidos>
+        <trofeus>Nenhum</trofeus>
+    </usuario>
+<usuario><codigo>2</codigo><nome>patricia</nome><email>patricia@email.com</email><senha>123</senha><pontuacao>0</pontuacao><jogos_ganhos>0</jogos_ganhos><jogos_perdidos>2</jogos_perdidos><trofeus>Nenhum</trofeus></usuario></usuarios>
